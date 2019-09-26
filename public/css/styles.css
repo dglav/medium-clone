@@ -1,0 +1,39 @@
+.nav-item {
+  padding: 5px;
+}
+
+nav button {
+  margin: 0 8px;
+}
+
+.circle-icon {
+  background: #a0c3ff;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 20px;
+  vertical-align: middle;
+}
+
+.circle-icon:before {
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+.fa-user {
+  color: #4374e0;
+}
+
+#category-bar a.active {
+  font-weight: bold;
+}
+
+#category-bar a:hover {
+  font-weight: bold;
+}
+
+#cagegory-bar a:active {
+  font-weight: bold;
+}
